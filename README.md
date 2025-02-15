@@ -4,7 +4,7 @@
 🚀 **This project provides an easy-to-use pipeline for training a KNN-based hand gesture recognition model.**  
 The goal is to allow users to **define, train, and recognize** their own hand gestures without requiring deep learning expertise.  
 This will later be used for **prosthetic control**, where users can customize gestures for their prosthetic hands.
-
+Demo Video of Trained Model: https://drive.google.com/file/d/1HjNicYl9rk137SQU4EB30T021a3emRC_/view?usp=sharing
 ---
 
 ## **🔹 Features**
